@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I am currently studying final year bachelor of engineering at KS institute Of Technology 
@@ -12,4 +10,3 @@ Here are some ideas to get you started:
 -     I did a project example blog page using HTML+CSS I learned from a course which I completed on internshala
 -    I did a machine Learning Project on Placement Predcition using Supervised Learning learned from a course done from Prinston Smart Engineers
 
--->
