@@ -6,5 +6,5 @@
 -     I did projects using python for game development 
 -     I did GUI projects using tkinter, Pandas
 -     I did a project example blog page using HTML+CSS I learned from a course which I completed on internshala
--    I did a machine Learning Project on Placement Predcition using Supervised Learning learned from a course done from Prinston Smart Engineers
+-    I did a machine Learning Project on Placement Prediction using Supervised Learning learned from a course done from Prinston Smart Engineers
 
