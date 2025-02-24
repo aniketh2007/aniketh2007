@@ -10,6 +10,6 @@ I'm a passionate software engineer with expertise in developing automation tools
 - Collaborated with cross-functional teams to integrate automation tools, reducing manual data entry errors by 45%.
 
 ### 🛠 Technical Skills:
-- Languages & Tools: Python, SQL, Tkinter, Pandas, NumPy, Seaborn, Matplotlib, Power BI, OOP, Smtplib
+- Languages & Tools: Python, SQL, Tkinter, Pandas, NumPy, Seaborn, Matplotlib, Power BI, OOP, Smtplib, GET requests, POST requests
 - Frameworks: Software Development Life Cycle (SDLC), GUI Development, API Integration
 
