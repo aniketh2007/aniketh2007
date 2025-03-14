@@ -2,7 +2,7 @@
 🔹 Software Engineer | Automation Enthusiast | Data-Driven Problem Solver
 
 ### 📍 About Me:
-I'm a passionate software engineer with expertise in developing automation tools that streamline workflows, enhance productivity, and reduce manual efforts. With a strong foundation in Python, data analysis, and GUI development, I specialize in creating efficient solutions that drive operational excellence.
+I'm a passionate software engineer with expertise in developing automation tools that streamline workflows, enhance productivity, and reduce manual efforts. With a strong foundation in Python, Git,Github, Verison Control, Jenkins, CI/CD Pipelines,Grafana.
 ### 📂 Experience:
 - Developed and deployed Python-based automation tools at Bosch Global Software Technologies (BGSW), reducing manual efforts by 90% and cutting testing time by 70%.
 - Implemented advanced features like automated bug detection, reducing resolution time by 40%, and enhancing product quality by 20%.
