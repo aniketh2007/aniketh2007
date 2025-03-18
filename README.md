@@ -10,5 +10,5 @@ I'm a passionate software engineer with expertise in developing automation tools
 - Collaborated with cross-functional teams to integrate automation tools, reducing manual data entry errors by 45%.
 
 ### 🛠 Technical Skills:
-- Languages & Tools: Git,Github, Verison Control, Jenkins, CI/CD Pipelines,Grafana
+- Languages & Tools: Git,Github, Verison Control, Jenkins, CI/CD Pipelines,Grafana, Confluence and Kibana
 
